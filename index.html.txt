@@ -1,0 +1,50 @@
+<html>
+
+<head>
+<p> My Favorite things </p>
+<ol>
+<a href="#Yummy">Tastyness</a>
+<a href="#cute">Puppy</a>
+<a href="#Poke">Pokemon</a>
+<a href="#Matrix">Codeing</a>
+</head>
+<ol>
+<body>
+
+<header>
+
+<div id="Yummy">
+<title>Bacon</title>
+<img src="94fd6f49-istockbacon"/>
+<p>   Bacon is so tasty, that I almost die eating it.
+Bacon is worth the lives of pigs
+</p>
+</div>
+
+<div id="cute">
+<img src="IMG_72451"/>
+<p>
+I love puppies so much they are the cutest thing ever.
+I heart puppies.
+</p>
+</div>
+<header/>
+
+<footer>
+<div id="Poke">
+<img src="1528826562395"/>
+<p> Pokemon are the best. 
+They are cool
+</p>
+</div>
+<div id="Matrix">
+<img src="1"/>
+<p>I love doing code like this
+My coding will one day be more advanced than the Matrix
+</p>
+</div>
+</footer>
+
+</body>
+
+</html>
